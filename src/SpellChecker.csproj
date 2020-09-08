@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="../../Shared/src/Shared.csproj"/>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Phonix" Version="*"/>
+    <PackageReference Include="Serilog.AspNetCore" Version="*"/>
+    <PackageReference Include="Serilog.Sinks.Console" Version="*"/>
+	<PackageReference Include="Serilog.Sinks.Fluentd" Version="*"/>
+	<PackageReference Include="Serilog.Sinks.Seq" Version="*"/>
+    <PackageReference Include="Serilog.Enrichers.CorrelationId" Version="*"/>
+  </ItemGroup>
+</Project>

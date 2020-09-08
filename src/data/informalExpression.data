@@ -1,0 +1,118 @@
+#=====================================================
+# This file contains informal expression mapping
+# Format: informal expression|correct expression
+#=====================================================
+# From http://en.wikipedia.org/wiki/Wikipedia:List_of_English_contractions
+aint|ain't
+arent|aren't
+cant|can't
+couldnt|couldn't
+couldve|could've
+couldntve|couldn't've
+didnt|didn't
+doesnt|doesn't
+dont|don't
+hadnt|hadn't
+hadntve|hadn't've
+hasnt|hasn't
+havent|haven't
+hed|he'd
+hedve|he'd've
+heres|here's
+hes|he's
+howd|how'd
+howll|how'll
+hows|how's
+idve|i'd've
+im|i'm
+ive|i've
+isnt|isn't
+itd|it'd
+itdve|it'd've
+itll|it'll
+maam|ma'am
+mightnt|mightn't
+mightntve|mightn't've
+mustnt|mustn't
+mustve|must've
+neednt|needn't
+notve|not've
+oclock|o'clock 
+shes|she's
+shouldnt|shouldn't
+shouldve|should've
+shouldntve|shouldn't've
+thatll|that'll
+thats|that's
+theres|there's
+thered|there'd
+theredve|there'd've
+therere|there're
+theyd|they'd
+theydve|they'd've
+theyll|they'll
+theyre|they're
+theyve|they've
+wasnt|wasn't
+weve|we've
+werent|weren't
+whatll|what'll
+whatre|what're 
+whats|what's
+whatve|what've
+whens|when's
+wheres|where's
+whered|where'd
+whod|who'd
+wholl|who'll
+whos|who's
+whove|who've 
+whyll|why'll
+whyre|why're
+whys|why's
+wont|won't
+wouldnt|wouldn't
+wouldve|would've
+wouldntve|wouldn't've
+youd|you'd
+youdve|you'd've
+youll|you'll
+youre|you're
+youve|you've
+yall|y'all
+pls|please
+plz|please
+pliz|please
+# Newly add
+plzz|please
+pl|please
+yo|you
+# single character
+u|you
+b|be
+r|are
+# not used: real word
+#hell|he'll
+#id|i'd
+#ill|i'll
+#its|it's
+#lets|let's
+#shant|shan't 
+#shed|she'd
+#shell|she'll
+#wed|we'd 
+#were|we're
+#well|we'll
+#whereve|where've
+#whore|who're 
+# --- new addition ---
+ans|answer
+conditn|condition
+treatmt|treatment
+mth|month
+mths|months
+#y/o|years old
+w/|with 
+#you'd|you would
+#its|it is
+iam|i am
